@@ -1,4 +1,4 @@
-# Java-Spring
+# Java + Springboot
 
 Projeto desenvolvido durante meus estudos de Java e Spring Boot, com foco em desenvolvimento Backend.
 
