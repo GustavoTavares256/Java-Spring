@@ -1,29 +1,44 @@
-# Java-Spring
+# ☕ Java + Spring boot
 
-Projeto desenvolvido durante meus estudos de Java e Spring Boot, com foco em desenvolvimento Backend.
+Projeto desenvolvido durante meus estudos de **Java e Spring Boot**
 
-Tecnologias
-Java
-Spring Boot
-Spring Web
-Spring Data JPA
-JPA / Hibernate
-Spring Security
-Maven
-Sobre o projeto
+O objetivo do projeto é colocar em prática os principais conceitos utilizados no desenvolvimento **Backend com Spring Boot**.
 
-Projeto criado para praticar o desenvolvimento de APIs REST utilizando o ecossistema Spring.
+## 🛠️ Tecnologias
 
-Durante o desenvolvimento, estou estudando conceitos como:
+* Java
+* Spring Boot
+* Spring Web
+* Spring Data JPA
+* JPA / Hibernate
+* Spring Security
+* Maven
+* Lombok
 
-Criação de APIs REST
-Injeção de dependências
-Arquitetura em camadas
-Persistência de dados
-JPA e Hibernate
-Segurança e autenticação
-Validação de dados
-Tratamento de exceções
-Objetivo
+## 📚 Conteúdos estudados
 
-Praticar e aprofundar meus conhecimentos em Java e Spring Boot, desenvolvendo uma base sólida para atuar como desenvolvedor Backend.
+Durante o desenvolvimento do projeto, são abordados conceitos como:
+
+* Criação de APIs REST
+* Injeção de dependências
+* Arquitetura em camadas
+* Controllers, Services e Repositories
+* Spring Data JPA
+* JPA e Hibernate
+* Persistência de dados
+* Validação de dados
+* Tratamento de exceções
+* Segurança e autenticação
+* Integração com banco de dados
+
+## 🎯 Objetivo
+
+Aprofundar meus conhecimentos em **Java e Spring Boot**, acompanhando o conteúdo do curso e praticando os conceitos apresentados ao longo das aulas.
+
+O projeto faz parte da minha jornada de aprendizado com foco em **desenvolvimento Backend**.
+
+## 👨‍💻 Foco
+
+**Backend Development**
+
+Java • Spring Boot • REST APIs • JPA • Hibernate • SQL

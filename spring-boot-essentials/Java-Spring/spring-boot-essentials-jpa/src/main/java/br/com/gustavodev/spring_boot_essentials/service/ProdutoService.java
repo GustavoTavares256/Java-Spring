@@ -1,7 +1,5 @@
 package br.com.gustavodev.spring_boot_essentials.service;
 
-import br.com.gustavodev.spring_boot_essentials.databse.model.ProdutoEntity;
-import br.com.gustavodev.spring_boot_essentials.dto.ProdutoDto;
 import br.com.gustavodev.spring_boot_essentials.exception.NotFoundException;
 import org.springframework.stereotype.Service;
 

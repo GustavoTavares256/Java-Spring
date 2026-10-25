@@ -1,9 +1,6 @@
 package br.com.gustavodev.spring_boot_essentials.controller;
 
-import br.com.gustavodev.spring_boot_essentials.databse.model.ProdutoEntity;
-import br.com.gustavodev.spring_boot_essentials.dto.ProdutoDto;
 import br.com.gustavodev.spring_boot_essentials.exception.NotFoundException;
-import br.com.gustavodev.spring_boot_essentials.service.ProdutoService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
